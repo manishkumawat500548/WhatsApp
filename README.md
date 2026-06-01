@@ -13,8 +13,7 @@ The project includes phone number authentication and demonstrates modern Android
 - Material Design 3
 - Firebase Authentication
 
-  ## Tech Stack
-
+# Tech Stack
 - Kotlin
 - Jetpack Compose
 - Firebase Authentication
