@@ -12,3 +12,20 @@ The project includes phone number authentication and demonstrates modern Android
 - Navigation Compose
 - Material Design 3
 - Firebase Authentication
+
+
+## Screenshots
+### Mobile Number Screen
+![Mobile Number Screen](screenshots/mobileNumScreen.jpg)
+
+### OTP Screen
+![OTP Screen](screenshots/OTPScreen.jpg)
+
+### Chat Screen
+![Chat Screen](screenshots/chatScreen.jpg)
+
+### Call Screen
+![Call Screen](screenshots/callScreen.jpg)
+
+### Profile Screen
+![Profile Screen](screenshots/profileScreen.jpg)
