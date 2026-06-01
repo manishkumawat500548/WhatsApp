@@ -13,6 +13,15 @@ The project includes phone number authentication and demonstrates modern Android
 - Material Design 3
 - Firebase Authentication
 
+  ## Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- Firebase Authentication
+- Navigation Compose
+- ViewModel
+- Material 3
+
 
 ## Screenshots
 ### Mobile Number Screen
