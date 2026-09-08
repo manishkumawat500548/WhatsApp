@@ -28,9 +28,9 @@ The project includes phone number authentication and demonstrates modern Android
 | ----------------------------- | ----------------------------------- | ----------------------------------- |
 | ![Home Screen](screenshots/mobileNumScreen.jpg) | ![Workout Screen](screenshots/OTPScreen.jpg) | ![History Screen](screenshots/chatScreen.jpg) |
 
-| Profile                             | Call                                                        |
-| ----------------------------------- | ----------------------------------------- | 
-| ![Profile Screen](screenshots/profileScreen.jpg) | ![WorkoutDetail](screenshots/callScreen.jpg) | 
+| Profile                             | Call                                                        | Update
+| ----------------------------------- | ----------------------------------------- |  ----------------------------------------- | 
+| ![Profile Screen](screenshots/profileScreen.jpg) | ![WorkoutDetail](screenshots/callScreen.jpg) | ![WorkoutDetail](screenshots/updateScreen.jpg) |
 
 
 
