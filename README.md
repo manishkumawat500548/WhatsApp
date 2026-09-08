@@ -26,7 +26,7 @@ The project includes phone number authentication and demonstrates modern Android
 
 | Mobile Number                          | OTP                            | Chat                            |
 | ----------------------------- | ----------------------------------- | ----------------------------------- |
-| ![Home Screen](screenshots/mobileScreen.jpg) | ![Workout Screen](screenshots/OTPScreen.jpg) | ![History Screen](screenshots/chatScreen.jpg) |
+| ![Home Screen](screenshots/mobileNumberScreen.jpg) | ![Workout Screen](screenshots/OTPScreen.jpg) | ![History Screen](screenshots/chatScreen.jpg) |
 
 | Profile                             | Call                                                        |
 | ----------------------------------- | ----------------------------------------- | 
