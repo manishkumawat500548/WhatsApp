@@ -22,18 +22,15 @@ The project includes phone number authentication and demonstrates modern Android
 - Material 3
 
 
-## Screenshots
-### Mobile Number Screen
-![Mobile Number Screen](screenshots/mobileNumScreen.jpg)
+## 📱 Screenshots
 
-### OTP Screen
-![OTP Screen](screenshots/OTPScreen.jpg)
+| Mobile Number                          | OTP                            | Chat                            |
+| ----------------------------- | ----------------------------------- | ----------------------------------- |
+| ![Home Screen](screenshots/mobileScreen.jpg) | ![Workout Screen](screenshots/OTPScreen.jpg) | ![History Screen](screenshots/chatScreen.jpg) |
 
-### Chat Screen
-![Chat Screen](screenshots/chatScreen.jpg)
+| Profile                             | Call                                                        |
+| ----------------------------------- | ----------------------------------------- | 
+| ![Profile Screen](screenshots/profileScreen.jpg) | ![WorkoutDetail](screenshots/callScreen.jpg) | 
 
-### Call Screen
-![Call Screen](screenshots/callScreen.jpg)
 
-### Profile Screen
-![Profile Screen](screenshots/profileScreen.jpg)
+
